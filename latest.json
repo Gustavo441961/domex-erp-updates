@@ -3,7 +3,7 @@
   "minimum_version": "1.0.1",
   "mandatory": false,
   "installer_url": "https://github.com/Gustavo441961/domex-erp-updates/releases/download/v1.0.2/DOMEX_ERP_Setup_1.0.2.exe",
-  "sha256": "PEGA_AQUI_EL_HASH_COMPLETO",
+  "sha256": "1d0e42a59cc900abb23a18bfb8bcdcd8dfaf74b70bb65fe6bfa0c0bb76e2f91c",
   "release_notes": [
     "Actualizador automático integrado",
     "Respaldo automático de la base de datos antes de instalar",
